@@ -1,0 +1,2 @@
+# Capsolver GoogleRecaptchaV2Bypass
+ 
