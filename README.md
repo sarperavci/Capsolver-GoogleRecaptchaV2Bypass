@@ -9,6 +9,7 @@ A Selenium implementation to bypass Google Recaptcha V2 using Capsolver API.
 ## Demo
 
 ![Demo](docs/demo.gif)
+
 The captcha is solved in less than 2.5 seconds.
 
 ## Installation
