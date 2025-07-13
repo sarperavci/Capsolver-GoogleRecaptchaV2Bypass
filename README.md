@@ -1,6 +1,7 @@
 # Capsolver GoogleRecaptchaV2 Bypass
+ 
 
-[![Capsolver](docs/capsolver.png)](https://www.capsolver.com/?utm_source=github&utm_medium=ads&utm_campaign=scraping&utm_term=Capsolver-GoogleRecaptchaV2Bypass)
+[![Capsolver](https://github.com/user-attachments/assets/05da2c43-fe5e-4627-b107-bfce969dacf1)](https://www.capsolver.com/?utm_source=github&utm_medium=ads&utm_campaign=scraping&utm_term=Capsolver-GoogleRecaptchaV2Bypass)
 
 **Solve Google Recaptcha V2 in just one line of code!**
 
